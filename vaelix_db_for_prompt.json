@@ -1,0 +1,2394 @@
+{
+  "Vas/Ferritin": [
+    {
+      "labor": "ferritin < 30 ng/mL",
+      "tunetek": [
+        "krónikus fáradtság",
+        "hajhullás",
+        "hideg végtagok",
+        "koncentrációzavar"
+      ],
+      "osszefugges": "Nem-anaemiás vasszint hiány (NAID) – tünetek 70-85%-ában igazolt",
+      "javaslat": "Vas-bisglycinate 25-50mg naponta, C-vitaminnal reggel, kávétól/teától 2 órával távolabb.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 15 ng/mL, Hgb normál",
+      "tunetek": [
+        "diffúz hajhullás",
+        "töredező körmök",
+        "légszomj lépcsőn"
+      ],
+      "osszefugges": "Latens vashiány – Hgb még normál de ferritin kritikusan alacsony, tünetek már jelen",
+      "javaslat": "Ferritin célja > 70 ng/mL. Vas szupplementáció + étrendkorrekció.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "Hgb < 11 g/dL, ferritin < 20",
+      "tunetek": [
+        "extrém fáradtság",
+        "sápadtság",
+        "szédülés",
+        "szívdobogás"
+      ],
+      "osszefugges": "Vashiányos anaemia – azonnali beavatkozást igényel",
+      "javaslat": "Orvosi felügyelet kötelező. IV vas infúzió mérlegelése súlyos esetben.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin 30-70 ng/mL (szuboptimális)",
+      "tunetek": [
+        "fáradtság",
+        "koncentrációzavar",
+        "ingerlékenység"
+      ],
+      "osszefugges": "Szuboptimális ferritin – labor 'normál' tartományban de tünetek jelen, optimum > 70",
+      "javaslat": "Étrendoptimalizáció + alacsony dózisú vas. Hemoglobin normál, de funkcionális hiány.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "MCV < 80 fL, ferritin alacsony",
+      "tunetek": [
+        "fáradtság",
+        "szédülés",
+        "sápadtság",
+        "körömtörés"
+      ],
+      "osszefugges": "Mikrocitás anaemia – vashiány klasszikus képe, kis vörösvértestek",
+      "javaslat": "Komplex vaspótlás 3-6 hónapig. MCV normalizálódása lassabb mint tünetek javulása.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin alacsony + anti-TTG pozitív",
+      "tunetek": [
+        "hasi fájdalom",
+        "hasmenés",
+        "fáradtság",
+        "vashiány kezelésre nem reagál"
+      ],
+      "osszefugges": "Cöliákia okozta vashiány – glutén intolerancia károsítja a vas felszívódási helyét (vékonybél)",
+      "javaslat": "Gluténmentes étrend kötelező. Vas felszívódás csak gluténmentes étrenddel normalizálódik.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 30, menstruáló nő",
+      "tunetek": [
+        "nehéz menstruáció",
+        "fáradtság",
+        "hajhullás"
+      ],
+      "osszefugges": "Menstruációs vashiány – leggyakoribb ok nőknél 18-45 év között",
+      "javaslat": "Vas pótlás cikluson kívül is folyamatosan. Gynekológiai kivizsgálás ha menstruáció > 7 nap.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin > 300 ng/mL (magas)",
+      "tunetek": [
+        "fáradtság",
+        "ízületi fájdalom",
+        "hajhullás"
+      ],
+      "osszefugges": "Emelkedett ferritin – gyulladásos marker is, nem csak vas. Hemochromatosis kizárása szükséges.",
+      "javaslat": "Magas ferritin NEM mindig vasfelesleg – akut fázis fehérje is. Kontextus alapján kell értékelni.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 40, vegetáriánus",
+      "tunetek": [
+        "vegetáriánus étrend",
+        "fáradtság",
+        "koncentrációzavar"
+      ],
+      "osszefugges": "Növényi vas (nem-hem vas) felszívódása 2-3x rosszabb mint állati vasé",
+      "javaslat": "Vegetáriánusoknál magasabb vas bevitel szükséges. C-vitamin kritikus.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 30, terhes",
+      "tunetek": [
+        "fáradtság – terhesség alatt",
+        "szédülés",
+        "légszomj"
+      ],
+      "osszefugges": "Terhességi vashiány – fokozott igény a magzat miatt, 2-3x nagyobb pótlás szükséges",
+      "javaslat": "Terhességi vas pótlás kötelező. Ferritin < 30 terhesség alatt közvetlen kockázat.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 15 ng/mL + hemoglobin < 120 g/L",
+      "tunetek": [
+        "súlyos fáradtság",
+        "légszomj",
+        "szívdobogás"
+      ],
+      "osszefugges": "Vashiányos anaemia – fáradtság és kardiovaszkuláris kompenzáció",
+      "javaslat": "Orvosi felügyelet, IV vas mérlegelése, vérzésforrás keresése",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "hemoglobin 118–125 g/L + ferritin 12–25 ng/mL",
+      "tunetek": [
+        "szédülés",
+        "tinnitus",
+        "koncentrációs nehézség"
+      ],
+      "osszefugges": "Pre-anémia – a szöveti vashiány tüneteket okoz mielőtt hemoglobin csökkenne",
+      "javaslat": "Vas 45–60 mg/nap 3 hónapig, majd ferritin ellenőrzés",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "hemoglobin < 110 g/L + ferritin < 15 ng/mL",
+      "tunetek": [
+        "súlyos fáradtság",
+        "sápadtság",
+        "légszomj",
+        "hideg végtagok"
+      ],
+      "osszefugges": "Kritikus vashiányos anaemia – szervek oxigénellátása veszélyeztetett",
+      "javaslat": "Orvosi felügyelet szükséges, IV vas infúzió mérlegelése",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "ferritin < 30 ng/mL + alacsony progeszteron",
+      "tunetek": [
+        "erős menstruáció",
+        "fáradtság",
+        "puffadás"
+      ],
+      "osszefugges": "Alacsony progeszteron erős menstruációt okoz, ami tovább csökkenti a ferritint",
+      "javaslat": "Nőgyógyászati konzultáció hormonegyensúlyra, vas pótlás párhuzamosan",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    }
+  ],
+  "Pajzsmirigy": [
+    {
+      "labor": "TSH > 2.5 mIU/L (szubklinikai)",
+      "tunetek": [
+        "fáradtság",
+        "hideg érzékenység",
+        "súlygyarapodás",
+        "székrekedés",
+        "lassú gondolkodás"
+      ],
+      "osszefugges": "Szubklinikai hypothyreosis – TSH 'normál' tartományban de optimum 1.0-2.0 mIU/L",
+      "javaslat": "TSH 2.5-4.5 közt panaszokkal: funkcionális hypothyreosis. Sok laborban 'normál' de tünetek valósak.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TSH > 4.5 mIU/L, fT4 alacsony",
+      "tunetek": [
+        "hajhullás",
+        "súlygyarapodás",
+        "depresszív hangulat",
+        "lassú szívverés"
+      ],
+      "osszefugges": "Manifeszt hypothyreosis – pajzsmirigy alulműködés, hormonpótlás szükséges",
+      "javaslat": "Levotiroxin kezelés szükséges. Önállóan nem kezelhető.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TSH < 0.4 mIU/L, fT4 magas",
+      "tunetek": [
+        "szívdobogás",
+        "fogyás",
+        "remegés",
+        "alvászavar",
+        "ingerlékenység"
+      ],
+      "osszefugges": "Pajzsmirigy túlműködés – TSH szupprimált, fokozott anyagcsere",
+      "javaslat": "Orvosi kezelés kötelező. Önállóan NEM kezelhető.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TPO antitest > 35 IU/mL",
+      "tunetek": [
+        "fáradtság",
+        "hajhullás",
+        "ízületi fájdalom",
+        "reggeli merevség"
+      ],
+      "osszefugges": "Hashimoto thyreoiditis – autoimmun pajzsmirigy gyulladás, leggyakoribb hypothyreosis ok",
+      "javaslat": "Autoimmun betegség. Gluténmentes étrend és szelén csökkentheti az antitesteket.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "TSH normál, fT3 alacsony (< 3.5 pmol/L)",
+      "tunetek": [
+        "fáradtság bár TSH normál",
+        "hideg végtagok",
+        "reggeli agyköd"
+      ],
+      "osszefugges": "Szegényes T4→T3 konverzió – TSH normál de aktív hormon (fT3) alacsony",
+      "javaslat": "Sok doktor nem méri fT3-at. Ha TSH normál de tünetek vannak – fT3 a kulcs.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "tapintható csomó + TSH normál",
+      "tunetek": [
+        "pajzsmirigy csomó tapintható",
+        "nyeln nehézség",
+        "rekedtség"
+      ],
+      "osszefugges": "Pajzsmirigy nodulusok – TSH normál esetén is kivizsgálás szükséges",
+      "javaslat": "Ultrahang és citológia kötelező. Az esetek 5%-a rosszindulatú.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "TSH > 3.0, fT3/fT4 arány alacsony",
+      "tunetek": [
+        "depresszió",
+        "súlygyarapodás",
+        "reggeli fáradtság",
+        "száraz bőr"
+      ],
+      "osszefugges": "Szegény konverziós hatékonyság depressziós tünetekkel – sokszor pszichiáterhez kerülnek",
+      "javaslat": "T3 hiány depresszió-szerű képet okoz. Szelén és cink az első lépés.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TSH emelkedett + anti-TPO pozitív",
+      "tunetek": [
+        "fáradtság",
+        "izomgyengeség",
+        "hajhullás"
+      ],
+      "osszefugges": "Hashimoto-thyreoiditis – autoimmun pajzsmirigygyulladás",
+      "javaslat": "Szelén 200 mcg/nap (csökkenti TPO antitestet), levotiroxin ha TSH > 4.5",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TSH > 5.0 mIU/L + fT4 < 12 pmol/L",
+      "tunetek": [
+        "állandó hidegség",
+        "súlygyarapodás",
+        "székrekedés",
+        "depressziós hangulat"
+      ],
+      "osszefugges": "Manifeszt hypothyreosis – mindkét érték kóros",
+      "javaslat": "Endokrinológiai konzultáció sürgős, levotiroxin szükséges",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "TSH 2.5–4.0 mIU/L + anti-TPO > 200",
+      "tunetek": [
+        "hajhullás",
+        "fáradtság",
+        "bőrszárazság",
+        "súlygyarapodás"
+      ],
+      "osszefugges": "Hashimoto korai fázisa – antitestek magasak, TSH még normál, de tünetek már vannak",
+      "javaslat": "Szelén 200 mcg/nap, 6 havi TSH+TPO követés",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "B12/Folát": [
+    {
+      "labor": "B12 < 300 pmol/L",
+      "tunetek": [
+        "zsibbadás végtagokban",
+        "égő érzés talpban",
+        "egyensúlyzavar"
+      ],
+      "osszefugges": "B12 hiány neurológiai tünetek – perifériás neuropátia. Visszafordítható ha korán kezelik.",
+      "javaslat": "Metilkobalamin forma (nem cianokobalamin). Szublingvális vagy injekció ha felszívódás kérdéses.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "B12 < 200 pmol/L, > 60 éves",
+      "tunetek": [
+        "memóriazavar",
+        "szókeresési nehézség",
+        "hangulatzavar idős korban"
+      ],
+      "osszefugges": "Idős kori B12 hiány – gyomorsav csökkentével csökken a B12 felszívódás. Demencia kockázat.",
+      "javaslat": "B12 injekció az idős korban megbízhatóbb mint szájon át szedett forma.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "B12 < 400 pmol/L, vegán",
+      "tunetek": [
+        "depresszió",
+        "apátia",
+        "fáradtság",
+        "vegán étrend"
+      ],
+      "osszefugges": "Vegán B12 hiány – állati forrásból hiányzik teljesen, pótlás nem opcionális hanem kötelező",
+      "javaslat": "B12 pótlás vegánoknál kötelező élethosszig. Heti 2500mcg vagy napi 250mcg elegendő.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "MCV > 100 fL, B12 alacsony",
+      "tunetek": [
+        "fáradtság",
+        "sápadtság",
+        "nagy vörösvértestek (MCV > 100)"
+      ],
+      "osszefugges": "Megaloblasztos anaemia – B12 hiány miatt abnormálisan nagy vörösvértestek",
+      "javaslat": "B12 pótlás szükséges. Folát kizárása is fontos.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "folát < 7 nmol/L, terhes",
+      "tunetek": [
+        "terhesség alatt fáradtság",
+        "lábgörcs",
+        "szájzug berepedés"
+      ],
+      "osszefugges": "Terhességi folát hiány – neurális csőzáródás kockázat az első trimeszterben kritikus",
+      "javaslat": "Folát pótlás a terhesség előtt 1-3 hónappal kell kezdeni. 400-800mcg/nap.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "folát < 10 nmol/L + homocisztein > 15 μmol/L",
+      "tunetek": [
+        "depresszió ami antidepresszánsra nem reagál",
+        "fáradtság",
+        "homocisztein magas"
+      ],
+      "osszefugges": "Folát hiány gátolja szerotonin szintézist és emeli homociszteint – antidepresszáns rezisztencia oka lehet",
+      "javaslat": "Metilfolát 5-MTHF (nem szimpla folsav) 15mg/nap antidepresszáns mellé.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    }
+  ],
+  "D-vitamin": [
+    {
+      "labor": "D-vitamin < 50 nmol/L",
+      "tunetek": [
+        "fáradtság",
+        "depresszív hangulat télen",
+        "csontfájdalom",
+        "izomgyengeség"
+      ],
+      "osszefugges": "D-vitamin hiány – izom és csont szintézishez, immunrendszerhez, hangulathoz szükséges",
+      "javaslat": "D3-vitamin pótlás K2-vel (MK-7) együtt. Zsírban oldódó – étkezéssel szedd.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    },
+    {
+      "labor": "D-vitamin < 75 nmol/L, autoimmun beteg",
+      "tunetek": [
+        "sűrű megfázás",
+        "lassan gyógyuló sebek",
+        "autoimmun fellángolás"
+      ],
+      "osszefugges": "D-vitamin immunmoduláló hatása – autoimmun betegeknél optimum > 100-125 nmol/L",
+      "javaslat": "Autoimmun betegeknél magasabb D-vitamin szint célzott. > 100 nmol/L a cél.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    },
+    {
+      "labor": "D-vitamin < 50 nmol/L, október-március",
+      "tunetek": [
+        "depresszió téli hónapokban",
+        "étvágytalanság",
+        "alvászavar"
+      ],
+      "osszefugges": "Szezonális affektív zavar (SAD) és D-vitamin hiány erős korreláció",
+      "javaslat": "Téli hónapokban kötelező D-vitamin pótlás Magyarország szélességén (47°N).",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    },
+    {
+      "labor": "D-vitamin < 30 nmol/L + kalcium alacsony",
+      "tunetek": [
+        "csontfájdalom",
+        "fáradtság",
+        "izomgörcs"
+      ],
+      "osszefugges": "Osteomalacia (felnőttkori angolkór) – súlyos D-vitamin hiány csontlágyulással",
+      "javaslat": "Sürgős orvosi kezelés. D-vitamin + kalcium kombinált pótlás orvosi felügyelettel.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    },
+    {
+      "labor": "D-vitamin < 40 nmol/L, sötét bőr",
+      "tunetek": [
+        "hajhullás",
+        "izomgyengeség",
+        "depresszív hangulat",
+        "sötét bőrű"
+      ],
+      "osszefugges": "Sötétebb bőrű személyeknél 3-5x több napfény kell azonos D-vitamin szintézishez",
+      "javaslat": "Sötét bőrűeknél szupplementáció szinte mindig szükséges mérsékelt éghajlaton.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    }
+  ],
+  "Magnézium": [
+    {
+      "labor": "magnézium < 0.85 mmol/L",
+      "tunetek": [
+        "éjszakai lábgörcsök",
+        "izomrángás",
+        "alvászavar"
+      ],
+      "osszefugges": "Magnézium hiány – leggyakoribb ásványi anyag hiány, izom relaxáció és alvásmélység kritikus tényező",
+      "javaslat": "Magnézium-glicinát vagy -malát este szedve – legjobb felszívódás, segíti az alvást.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "magnézium < 0.80 mmol/L + migrén anamnézis",
+      "tunetek": [
+        "fejfájás",
+        "migrén",
+        "fénnyel szembeni érzékenység"
+      ],
+      "osszefugges": "Magnézium hiány és migrén: migrénbetegek 50%-ánál igazolt magnézium hiány",
+      "javaslat": "Magnézium 600mg/nap migrén profilaxisra bizonyítottan hatásos.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "magnézium < 0.85 mmol/L + szorongás tünetek",
+      "tunetek": [
+        "szorongás",
+        "szívdobogás",
+        "belső remegés"
+      ],
+      "osszefugges": "Magnézium GABA receptorokon hat – hiányában szorongás és hiperarousal fokozódik",
+      "javaslat": "Magnézium-glicinát leginkább idegrendszeri tünetekre. Szorongásban metaanalízissel igazolt.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "magnézium < 0.80 mmol/L + bélpanaszok",
+      "tunetek": [
+        "székrekedés",
+        "bélgörcs",
+        "stresszes időszakban romló emésztés"
+      ],
+      "osszefugges": "Magnézium-oxid hashajtó hatású, magnézium-citrát mérsékelt. Bélmotilitáshoz szükséges.",
+      "javaslat": "Székrekedésnél magnézium-oxid 300-500mg este. Görcsöknél magnézium-glicinát.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "magnézium < 0.85 mmol/L + éhomi inzulin > 10 mIU/L",
+      "tunetek": [
+        "inzulinrezisztencia",
+        "magas vércukor",
+        "elhízás"
+      ],
+      "osszefugges": "Magnézium hiány csökkenti inzulinérzékenységet. Kétirányú kapcsolat.",
+      "javaslat": "Magnézium-malát vagy glicinát 400mg/nap. Inzulinrezisztencia kezelés komponense.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "magnézium < 0.82 mmol/L + ferritin < 50",
+      "tunetek": [
+        "éjszakai lábgörcs",
+        "nyugtalan láb",
+        "alvászavar"
+      ],
+      "osszefugges": "Nyugtalan láb szindróma két leggyakoribb kezelhető oka kombinálva",
+      "javaslat": "Magnézium + ferritin pótlás egyszerre, neurológiai konzultáció ha nem javul",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "magnézium < 0.75 mmol/L + B6 < 15 nmol/L",
+      "tunetek": [
+        "szorongás",
+        "pánikrohamok",
+        "szívdobogás"
+      ],
+      "osszefugges": "Magnézium és B6 a GABA szintézis kofaktorai – hiányuk szorongást okoz",
+      "javaslat": "Magnézium+B6 kombinált pótlás, pszichiátriai konzultáció ha súlyos",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    }
+  ],
+  "Kortizol": [
+    {
+      "labor": "reggeli kortizol < 400 nmol/L (alacsony)",
+      "tunetek": [
+        "reggeli fáradtság bár sokat alszik",
+        "délutáni energiaszint crash",
+        "kávé-függőség"
+      ],
+      "osszefugges": "Alacsony reggeli kortizol – HPA tengely diszreguláció, mellékvese fáradtság",
+      "javaslat": "Reggeli kortizol magasításához: fény, mozgás, adaptogének. Nem azonnali gyógyszer.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "esti kortizol > 200 nmol/L (magas este)",
+      "tunetek": [
+        "éjszakai ébrenlétek",
+        "hasfal zsírlerakódás",
+        "ingerlékenység",
+        "édes utáni sóvárgás"
+      ],
+      "osszefugges": "Magas esti kortizol – kortizol ritmus inverz, alváskvalitás és zsíranyagcsere károsodás",
+      "javaslat": "Esti kortizol csökkentése: kék fény kerülése, relaxáció, ashwagandha.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "kortizol < 300 reggel + DHEA-S alacsony",
+      "tunetek": [
+        "teljesítőképesség csökkent",
+        "motiváció elvesztése",
+        "burnout tünetek"
+      ],
+      "osszefugges": "HPA tengely kimerülés – tartós stressz utáni kortizol ürülés, burnout biológiai markere",
+      "javaslat": "DHEA-S növelése és HPA regeneráció 3-6 hónapos folyamat.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "reggeli kortizol alacsony + DHEA-S alacsony",
+      "tunetek": [
+        "fáradtság",
+        "depresszió",
+        "alacsony motiváció",
+        "alacsony stressztűrés"
+      ],
+      "osszefugges": "Adrenális kimerülés – alacsony kortizol és DHEA kombinációja",
+      "javaslat": "Endokrinológiai konzultáció, stresszcsökkentő program, alvásprioritizálás",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "kortizol > 700 nmol/L + ACTH alacsony",
+      "tunetek": [
+        "súlygyarapodás",
+        "magas vérnyomás",
+        "fáradtság",
+        "bőr elvékonyodás"
+      ],
+      "osszefugges": "ACTH-független Cushing szindróma – mellékvese adenoma gyanú",
+      "javaslat": "Mellékvese CT, endokrinológiai konzultáció sürgős",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "kortizol < 100 nmol/L + ACTH > 100 pg/mL",
+      "tunetek": [
+        "fáradtság",
+        "hiperpigmentáció",
+        "alacsony vérnyomás",
+        "só utáni vágy"
+      ],
+      "osszefugges": "Primer mellékvese elégtelenség – klasszikus laborlelet",
+      "javaslat": "Sürgős endokrinológiai konzultáció, hidrokortizón szubsztitúció életmentő lehet",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Inzulinrezisztencia": [
+    {
+      "labor": "éhomi inzulin > 10 mIU/L, éhomi glukóz 5.0-5.6 mmol/L",
+      "tunetek": [
+        "súlygyarapodás hason",
+        "fáradtság evés után",
+        "édes utáni vágy erős"
+      ],
+      "osszefugges": "Inzulinrezisztencia korai stádiuma – glukóz még normál de inzulin már emelkedett",
+      "javaslat": "Legkönnyebben visszafordítható stádium. Életmód változtatással teljes remisszió lehetséges.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "inzulin > 15 mIU/L + tesztoszteron magas (nők)",
+      "tunetek": [
+        "PCOS tünetek",
+        "rendszertelen menstruáció",
+        "akné",
+        "testszőrzet"
+      ],
+      "osszefugges": "PCOS inzulinrezisztencia alapja – IR→hiperandrogenizmus→anovuláció körforgás",
+      "javaslat": "PCOS kezelés gerince az inzulinrezisztencia kezelése.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "éhomi inzulin > 15 + reaktív hipoglikémia tünetek",
+      "tunetek": [
+        "fáradtság étkezés után 1 órával",
+        "koncentrációhiány délután",
+        "reszketés éhgyomorra"
+      ],
+      "osszefugges": "Reaktív hipoglikémia – inzulin túltermelés után vércukor mélypontba esik",
+      "javaslat": "Étkezések stabilizálása: fehérje + zsír minden szénhidráthoz. Cukor spájzok kerülése.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "HOMA-IR > 2.5 vagy éhomi inzulin > 15 μU/mL",
+      "tunetek": [
+        "krónikus fáradtság",
+        "súlygyarapodás",
+        "fokozott éhség"
+      ],
+      "osszefugges": "Inzulinrezisztencia – tünetek 60–80%-ában jelenik meg",
+      "javaslat": "Szénhidrát-csökkentett étrend, erőnléti edzés heti 3x min.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "éhomi glükóz 5.4–5.6 mmol/L + inzulin > 10 μU/mL",
+      "tunetek": [
+        "fáradtság",
+        "éhség étkezés után is"
+      ],
+      "osszefugges": "Korai inzulinrezisztencia – a sejtek nem reagálnak hatékonyan",
+      "javaslat": "HOMA-IR számítás, orvosi konzultáció, életmódváltás",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "glükóz 3.5–4.0 mmol/L étkezés után 2 órával",
+      "tunetek": [
+        "fáradtság",
+        "szédülés",
+        "koncentrációs nehézség"
+      ],
+      "osszefugges": "Reaktív hipoglikémia – inzulinrezisztencia korai jele",
+      "javaslat": "Alacsony GI étrend, kisebb-nagyobb étkezések, inzulin vizsgálat",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "HbA1c > 6.5% vagy glükóz > 11.1 mmol/L",
+      "tunetek": [
+        "fokozott szomjúság",
+        "fogyás",
+        "látászavar",
+        "fáradtság"
+      ],
+      "osszefugges": "Diabétesz valószínű – diagnosztikus értékű",
+      "javaslat": "Azonnali diabetológiai konzultáció szükséges",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "triglicerid > 2.0 + HDL < 1.0 + glükóz > 5.5 mmol/L",
+      "tunetek": [
+        "fáradtság",
+        "súlygyarapodás",
+        "magas triglicerid"
+      ],
+      "osszefugges": "Metabolikus szindróma kritériumai teljesülnek",
+      "javaslat": "Életmódváltás prioritás, orvosi kardiometabolikus kockázatbecslés",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Hormonok": [
+    {
+      "labor": "tesztoszteron < 10 nmol/L (férfi)",
+      "tunetek": [
+        "libidócsökkenés",
+        "izomtömeg-vesztés",
+        "fáradtság",
+        "reggeli merevedés hiánya (férfi)"
+      ],
+      "osszefugges": "Alacsony tesztoszteron férfiaknál – hipogonadizmus, életminőség jelentős romlása",
+      "javaslat": "Életmóddal részben emelhető. Súlyos esetben hormonpótlás szükséges.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ösztradiol < 100 pmol/L + FSH > 25 mIU/mL (nő 45+)",
+      "tunetek": [
+        "hőhullámok",
+        "alvászavar",
+        "hangulatingadozás",
+        "menstruáció kimarad"
+      ],
+      "osszefugges": "Perimenopauza / menopauza – ösztrogén csökkenés, FSH kompenzációs emelkedése",
+      "javaslat": "Hormonpótló kezelés (HRT) mérlegelése nőgyógyásszal. Természetes támogatás is lehetséges.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "DHEA-S magas + tesztoszteron magas (nő)",
+      "tunetek": [
+        "akné",
+        "bőrzsírosodás",
+        "pattanások 25+ korban"
+      ],
+      "osszefugges": "Hiperandrogenizmus nőknél – PCOS, mellékvese hiperplazia vagy adrenális tumor",
+      "javaslat": "Okot keresni: PCOS vs. mellékvese ok. Önállóan nem kezelhető.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "prolaktin > 25 ng/mL",
+      "tunetek": [
+        "libidócsökkenés",
+        "fejfájás",
+        "tejtermék-szerű mellváladék"
+      ],
+      "osszefugges": "Hyperprolactinaemia – agyalapi mirigy adenoma vagy gyógyszer mellékhatás",
+      "javaslat": "Prolaktin emelkedés orvosi kivizsgálást igényel. MRI szükséges lehet.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "LH/FSH > 2.5",
+      "tunetek": [
+        "hajhullás",
+        "akné",
+        "szabálytalan menstruáció"
+      ],
+      "osszefugges": "Magas LH/FSH arány PCOS diagnosztikai kritériuma nőknél",
+      "javaslat": "Nőgyógyászati konzultáció, ultrahang, teljes hormonpanel",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "tesztoszteron < 12 nmol/L (férfi) + D-vitamin < 50",
+      "tunetek": [
+        "fáradtság",
+        "libidócsökkenés",
+        "izomveszteség"
+      ],
+      "osszefugges": "D-vitamin hiány csökkenti a tesztoszteron szintézist",
+      "javaslat": "D3 3000 NE/nap, cink 15 mg, erőnléti edzés heti 3x",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "tesztoszteron < 8 nmol/L + LH alacsony (férfi)",
+      "tunetek": [
+        "fáradtság",
+        "libidócsökkenés",
+        "erekciós problémák",
+        "izomveszteség"
+      ],
+      "osszefugges": "Hipofízis probléma gyanúja – szekunder hypogonadizmus",
+      "javaslat": "Hipofízis MRI mérlegelése, endokrinológiai konzultáció",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "FSH > 40 + ösztradiol < 100 pmol/L",
+      "tunetek": [
+        "fáradtság",
+        "hőhullámok",
+        "libidócsökkenés"
+      ],
+      "osszefugges": "Menopauza labor – tünetek kezelése javítja az életminőséget",
+      "javaslat": "Nőgyógyászati konzultáció HRT mérlegelésre, D-vitamin + csontdenzitometria",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "inzulin > 15 + tesztoszteron magas (nő) + triglicerid > 2",
+      "tunetek": [
+        "fáradtság",
+        "hajhullás",
+        "puffadás",
+        "szabálytalan menstruáció"
+      ],
+      "osszefugges": "PCOS metabolikus szindróma – inzulinrezisztencia, androgénexcessz, diszlipidémia",
+      "javaslat": "Metformin, inozitol, életmódváltás + nőgyógyászati konzultáció",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Gyulladás": [
+    {
+      "labor": "hs-CRP > 10 mg/L + RF vagy anti-CCP pozitív",
+      "tunetek": [
+        "ízületi fájdalom",
+        "reggeli merevség > 30 perc",
+        "duzzadt ízületek"
+      ],
+      "osszefugges": "Rheumatoid arthritis gyanú – magas gyulladásos markerek autoimmun antitestekkel",
+      "javaslat": "Reumatológiai kivizsgálás sürgős. Korai kezelés megelőzi az ízületi károsodást.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "hs-CRP 3-10 mg/L, krónikus",
+      "tunetek": [
+        "általános fájdalom",
+        "fáradtság",
+        "nem specifikus panaszok"
+      ],
+      "osszefugges": "Krónikus alacsony fokú gyulladás – metabolikus szindróma, oxidatív stressz, mikrobiom diszbiózis",
+      "javaslat": "Életmód alapú gyulladáscsökkentés. Étrend és stressz a legjobb célpontok.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "hs-CRP > 3 mg/L + fogászati panaszok",
+      "tunetek": [
+        "fogíny vérzés",
+        "fogfájás",
+        "CRP emelkedett ok nélkül"
+      ],
+      "osszefugges": "Fogágybetegség szisztémás gyulladás forrása – sokszor nem gondolnak rá",
+      "javaslat": "Fogászati kezelés csökkenti szisztémás CRP-t 2-3 hónap alatt.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "széklet calprotectin > 50 μg/g",
+      "tunetek": [
+        "krónikus puffadás",
+        "hasmenés/székrekedés váltakozása",
+        "fáradtság"
+      ],
+      "osszefugges": "Enyhe bélgyulladás – fáradtság és IBS-szerű tünetek",
+      "javaslat": "Gasztroenterológiai konzultáció, low-FODMAP diéta próba",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "calprotectin > 200 μg/g + CRP > 5 mg/L",
+      "tunetek": [
+        "hasmenés",
+        "fogyás",
+        "fáradtság"
+      ],
+      "osszefugges": "Aktív bélgyulladás két markere – IBD valószínű",
+      "javaslat": "Sürgős gasztroenterológiai kivizsgálás, kolonoszkópia",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Autoimmun": [
+    {
+      "labor": "ANA pozitív > 1:160, anti-dsDNA pozitív",
+      "tunetek": [
+        "ízületi fájdalom",
+        "kiütés pillangó formában arcon",
+        "fáradtság",
+        "napérzékenység"
+      ],
+      "osszefugges": "Szisztémás lupus erythematosus (SLE) gyanú – sürgős reumatológiai kivizsgálás",
+      "javaslat": "SLE önállóan nem kezelhető. Azonnali orvosi kivizsgálás szükséges.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-SSA/Ro pozitív, anti-SSB/La pozitív",
+      "tunetek": [
+        "száraz szem",
+        "száraz száj",
+        "ízületi fájdalom"
+      ],
+      "osszefugges": "Sjögren szindróma gyanú – nyálmirigyek és könnymirigyek autoimmun gyulladása",
+      "javaslat": "Reumatológiai kivizsgálás szükséges. Tüneti kezelés is lehetséges.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-tTG IgA > 10 U/mL",
+      "tunetek": [
+        "cöliákia tünetek nélkül",
+        "vashiány kezelésre nem reagál",
+        "hasmenés"
+      ],
+      "osszefugges": "Cöliákia – autoimmun vékonybél gyulladás, glutén triggereli",
+      "javaslat": "Gluténmentes étrend életmódváltás. Cöliákia diagnózis biopsziával megerősítendő.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ANA > 1:160 + anti-dsDNA pozitív + alacsony C3/C4",
+      "tunetek": [
+        "fáradtság",
+        "ízületi fájdalom",
+        "bőrpír",
+        "fényérzékenység"
+      ],
+      "osszefugges": "Szisztémás lupus erythematosus – aktív betegség jelei",
+      "javaslat": "Sürgős reumatológiai konzultáció, immunszuppresszív terápia",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-AChR antitest pozitív",
+      "tunetek": [
+        "fáradtság",
+        "izomgyengeség",
+        "ptózis",
+        "kettős látás"
+      ],
+      "osszefugges": "Myasthenia gravis – neuromuskuláris autoimmun betegség",
+      "javaslat": "Neurológiai konzultáció sürgős, mellkasi CT timóma keresésre",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-TPO > 34 IU/mL + TSH emelkedett",
+      "tunetek": [
+        "fáradtság",
+        "hajhullás",
+        "hidegérzékenység",
+        "ízületi fájdalom"
+      ],
+      "osszefugges": "Hashimoto-thyreoiditis – leggyakoribb autoimmun pajzsmirigy betegség",
+      "javaslat": "Szelén 200 mcg/nap, levotiroxin ha TSH > 4.5, D-vitamin optimalizálás",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-CCP > 20 U/mL",
+      "tunetek": [
+        "reggeli merevség > 1 óra",
+        "szimmetrikus ízületi duzzanat",
+        "fáradtság"
+      ],
+      "osszefugges": "Rheumatoid artritis specifikus markere – korai diagnózis kritikus",
+      "javaslat": "Azonnali reumatológiai konzultáció, DMARD terápia megkezdése",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-tTG IgA > 10 U/mL + alacsony ferritin",
+      "tunetek": [
+        "fáradtság",
+        "puffadás",
+        "hasmenés",
+        "hasi fájdalom"
+      ],
+      "osszefugges": "Cöliákia gyanúja – bélinflammáció gátolja vas felszívódását",
+      "javaslat": "Gasztroenterológiai konzultáció, biopszia, gluténmentes diéta",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "antifoszfolipid antitestek pozitív (aCL, anti-β2GPI)",
+      "tunetek": [
+        "fáradtság",
+        "visszatérő trombózis",
+        "vetélések"
+      ],
+      "osszefugges": "Antifoszfolipid szindróma – trombózis és vetélés hátterében autoimmun ok",
+      "javaslat": "Reumatológiai konzultáció, antikoagulálás szükséges",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "IgG > 20 g/L + ANA > 1:160 + anti-SMA pozitív",
+      "tunetek": [
+        "fáradtság",
+        "sárgaság",
+        "hasi fájdalom"
+      ],
+      "osszefugges": "Autoimmun hepatitis – kezelés nélkül cirózishoz vezet",
+      "javaslat": "Hepatológiai konzultáció sürgős, szteroid + azatioprin",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ALP > 200 + GGT > 100 + AMA pozitív",
+      "tunetek": [
+        "hasi fájdalom",
+        "sárgaság",
+        "pruritus"
+      ],
+      "osszefugges": "Primer biliáris cholangitis – autoimmun epeúti betegség",
+      "javaslat": "Hepatológiai konzultáció, urzodikolsav (UDCA) terápia",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Kardiovaszkuláris": [
+    {
+      "labor": "LDL > 4.0 mmol/L + hs-CRP > 3 mg/L",
+      "tunetek": [
+        "mellkasi szorítás",
+        "szívdobogás",
+        "magas vérnyomás"
+      ],
+      "osszefugges": "Magas kardiovaszkuláris kockázat – oxidált LDL + gyulladás kombinációja legveszélyesebb",
+      "javaslat": "Kardiovaszkuláris kockázatcsökkentés életmóddal és orvosi felügyelettel.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "homocisztein > 15 μmol/L",
+      "tunetek": [
+        "szívdobogás",
+        "szédülés",
+        "magas vérnyomás"
+      ],
+      "osszefugges": "Emelkedett homocisztein – önálló kardiovaszkuláris kockázati tényező, B-vitamin hiány jele",
+      "javaslat": "B6 + B12 + folát kombinált pótlás homociszteint csökkenti.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "vérnyomás > 140/90 rendszeres méréssel",
+      "tunetek": [
+        "magas vérnyomás",
+        "fejfájás",
+        "hangulatingadozás"
+      ],
+      "osszefugges": "Hypertonia – szív és ér rendszer tartós túlterhelése. Kezeletlen esetben stroke és infarktus kockázat.",
+      "javaslat": "Életmód: DASH étrend + magnézium + kálium + mozgás + súly normalizálás.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "LDL > 3.4 mmol/L + alacsony HDL < 1.0 mmol/L",
+      "tunetek": [
+        "fáradtság",
+        "csökkent terhelhetőség",
+        "mellkasi diszkomfort"
+      ],
+      "osszefugges": "Aterogén lipidprofil – kardiovaszkuláris kockázat és fáradtság",
+      "javaslat": "Omega-3 3–4 g/nap, életmódváltás, orvosi döntés statinról",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "triglicerid > 1.7 mmol/L + alacsony HDL",
+      "tunetek": [
+        "fáradtság",
+        "súlygyarapodás",
+        "emelkedett vérnyomás"
+      ],
+      "osszefugges": "Metabolikus szindróma részeként – fáradtság és súlygyarapodás",
+      "javaslat": "Szénhidrát csökkentés, mozgás, orvosi konzultáció",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "LDL > 4.5 + homocisztein > 15 μmol/L",
+      "tunetek": [
+        "fejfájás",
+        "látászavar",
+        "magas vérnyomás",
+        "fáradtság"
+      ],
+      "osszefugges": "Kettős kardiovaszkuláris kockázat – érfal károsodás kockázata szignifikánsan nő",
+      "javaslat": "Kardiológiai kockázatbecslés, B12+folát+B6 pótlás a homocisztein csökkentésére",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "LDL > 3.5 mmol/L, total koleszterin > 5.5 mmol/L",
+      "tunetek": [
+        "magas koleszterin",
+        "mellkasi szorítás",
+        "fejfájás"
+      ],
+      "osszefugges": "Emelkedett LDL – oxidatív stressz + gyulladás kombinációja fokozza a kardiovaszkuláris kockázatot",
+      "javaslat": "Mediterrán étrend + omega-3 + mozgás. Sztatinok szükségessége orvosnál mérlegelendő.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "HDL < 1.0 mmol/L, triglicerid > 1.7 mmol/L",
+      "tunetek": [
+        "alacsony HDL",
+        "hasfal elhízás",
+        "triglicerid magas"
+      ],
+      "osszefugges": "Aterogén dyslipidaemia – inzulinrezisztencia klasszikus lipid képe",
+      "javaslat": "Szénhidrát és cukor csökkentés a leghatékonyabb. Omega-3 trigliceridet csökkent.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Emésztőrendszer": [
+    {
+      "labor": "nincs specifikus labor + tünetek alapján",
+      "tunetek": [
+        "puffadás",
+        "hasmenés",
+        "étkezés után fáradtság",
+        "bőrproblémák"
+      ],
+      "osszefugges": "Intestinalis permeabilitás ('szivárgó bél') gyanú – mikrobiom diszbiózis jele",
+      "javaslat": "Bél helyreállítás 4R protokoll: Remove, Replace, Re-inoculate, Repair.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "nincs labor + tünetek",
+      "tunetek": [
+        "reflux",
+        "savégetés",
+        "éjszakai köhögés"
+      ],
+      "osszefugges": "Gastrooesophagealis reflux – savtermelés túlsúly, fektetett helyzet, egyes ételek rontják",
+      "javaslat": "Életmód változtatások: evés időzítése, ételek kerülése, testsúly csökkentés.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "laktáz enzim hiány (klinikai gyanú)",
+      "tunetek": [
+        "laktóz fogyasztás után puffadás",
+        "hasmenés",
+        "hasgörcs"
+      ],
+      "osszefugges": "Laktóz intolerancia – laktáz enzim hiányában a tejcukor fermentálódik a vastagbélben",
+      "javaslat": "Tejtermékmentes próba 4 hétre, majd fokozatos visszavezetés. Fermentált tejtermék sokszor tolerált.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-tTG negatív + AGA (anti-gliadin) pozitív vagy klinikai gyanú",
+      "tunetek": [
+        "glutén fogyasztás után puffadás",
+        "fej elhomályosulás",
+        "ízületi fájdalom nincs cöliákia"
+      ],
+      "osszefugges": "NCGS – cöliákia teszt negatív de tünetek valósak. Közepes bizonyíték de klinikailag releváns.",
+      "javaslat": "4 hetes gluténmentes próba szubjektív tünetek értékelésével. Ha javul: gluténmentes étrend.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "hisztamin intolerancia gyanú (klinikai)",
+      "tunetek": [
+        "ADHD-szerű tünetek gyerekeknél",
+        "bőrpírosodás",
+        "kaptár (urticaria)"
+      ],
+      "osszefugges": "Hisztamin intolerancia – DAO enzim hiány miatt hisztamin felgyülemlik. Sokszor nem diagnosztizált.",
+      "javaslat": "Alacsony hisztamin étrend 4 hétre. DAO enzim pótlás.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "H. pylori pozitív",
+      "tunetek": [
+        "fáradtság",
+        "puffadás",
+        "hasi fájdalom",
+        "savvisszaáramlás"
+      ],
+      "osszefugges": "H. pylori gyomor nyálkahártyát gyulladásban tartja, vas és B12 felszívódást rontja",
+      "javaslat": "Eradikációs kezelés orvosi felügyelet alatt",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "normál labor + tünetek fennállnak",
+      "tunetek": [
+        "fáradtság",
+        "puffadás",
+        "hasi fájdalom",
+        "székrekedés"
+      ],
+      "osszefugges": "IBS – kizárásos diagnózis organikus betegség után",
+      "javaslat": "Low-FODMAP diéta, probiotikumok, stresszmenedzsment",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "anti-tTG IgA > 10 + duodenum biopszia Marsh 3",
+      "tunetek": [
+        "hasmenés",
+        "fogyás",
+        "fáradtság",
+        "hasi görcsök"
+      ],
+      "osszefugges": "Biopsziával bizonyított cöliákia – gluténmentes étrend life-long",
+      "javaslat": "Dietetikus bevonása, gluténmentes étrend részletes tanácsadása",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "SIBO lehelet teszt pozitív",
+      "tunetek": [
+        "fáradtság",
+        "puffadás",
+        "hasmenés"
+      ],
+      "osszefugges": "Vékonybél baktérium túlszaporodás – malabszorpciót okoz",
+      "javaslat": "Gasztroenterológiai konzultáció, rifaximin kezelés mérlegelése",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Mentális egészség": [
+    {
+      "labor": "szerotonin metabolitok alacsonyak (5-HIAA) vagy klinikai becslés alapján",
+      "tunetek": [
+        "depresszió",
+        "szorongás",
+        "energiahiány"
+      ],
+      "osszefugges": "Szerotonin hiány – triptofán bevitel, B6 és magnézium szükségesek a szintézishez",
+      "javaslat": "Nem azonnali gyógyszer. Triptofán → szerotonin út tápanyag alapú támogatása.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "normál vérkép + normál pajzsmirigy",
+      "tunetek": [
+        "fáradtság",
+        "szorongás",
+        "depresszió",
+        "öngyilkos gondolatok"
+      ],
+      "osszefugges": "Organikus okok kizárva – pszichiátriai sürgős ellátás szükséges",
+      "javaslat": "Azonnali pszichiátriai segítség szükséges – 116-123 (ingyenes krízis vonal)",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Neurológia": [
+    {
+      "labor": "cink < 70 μg/dL + magnézium alacsony",
+      "tunetek": [
+        "koncentrációhiány",
+        "impulzivitás",
+        "ADHD-szerű tünetek felnőttkori"
+      ],
+      "osszefugges": "Cink és magnézium hiány ADHD tüneteket felerősíthet vagy utánozhat",
+      "javaslat": "Cink + magnézium kombinált pótlás ADHD tünetek 30-40%-os csökkentése tanulmányokban.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "D-vitamin + magnézium + B12 normál, tünetek súlyosak",
+      "tunetek": [
+        "fáradtság",
+        "izomfájdalom",
+        "tenderness nyomásra",
+        "alvási zavar"
+      ],
+      "osszefugges": "Ha minden labor normál és tünetek fennállnak – fibromialgia szindróma lehetséges",
+      "javaslat": "Reumatológiai/fájdalomspecialista, aerob edzésprogram, kognitív viselkedésterápia",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "normál labor kombináció",
+      "tunetek": [
+        "fáradtság",
+        "napközbeni álmosság",
+        "reggeli fejfájás",
+        "horkolás"
+      ],
+      "osszefugges": "Alvási apnoe normál laborok mellett is fennáll",
+      "javaslat": "Poliszomnográfia, CPAP terápia mérlegelése",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Csont/Kalcium": [
+    {
+      "labor": "D-vitamin < 50 + kalcium normál alsó határon (2.1-2.2 mmol/L)",
+      "tunetek": [
+        "csontfájdalom",
+        "könnyen törő csont",
+        "hátfájás idős korban"
+      ],
+      "osszefugges": "Osteoporosis kockázat – D-vitamin és kalcium hiány kombinációja csontdenzitást csökkenti",
+      "javaslat": "D-vitamin + K2 + kalcium kombinált pótlás. Erőnléti edzés csontot épít.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    }
+  ],
+  "Máj": [
+    {
+      "labor": "ALT > 40 U/L + GGT emelkedett",
+      "tunetek": [
+        "fáradtság",
+        "jobb oldali hasfél nyomásérzés",
+        "puffadás"
+      ],
+      "osszefugges": "Máj enzim emelkedés – alkohol, elhízás, gyógyszer vagy vírusos hepatitis okozhatja",
+      "javaslat": "Alkohol teljes kerülése. Súlycsökkentés ha BMI > 25. Orvosi kivizsgálás.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "GGT > 60 U/L + ALT emelkedett",
+      "tunetek": [
+        "hasi fájdalom",
+        "sötét vizelet",
+        "sárgaság"
+      ],
+      "osszefugges": "Emelkedett GGT alkohol, zsírmáj vagy epeúti betegségre utal",
+      "javaslat": "Alkohol elhagyása, has ultrahang, hepatológiai konzultáció",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Vese": [
+    {
+      "labor": "kreatinin > 100 μmol/L (nő) / > 115 (férfi), eGFR < 60",
+      "tunetek": [
+        "fáradtság",
+        "éjszakai vizelés",
+        "lábdagadás",
+        "magas vérnyomás"
+      ],
+      "osszefugges": "Csökkent vesefunkció – cukorbetegség, hypertonia, gyulladás okozhatja",
+      "javaslat": "Vesevédő életmód: fehérje mérsékelt, só kerülése, vérnyomás kontroll.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "kreatinin > 130 μmol/L + eGFR < 60 mL/min",
+      "tunetek": [
+        "fáradtság",
+        "hányinger",
+        "fejfájás",
+        "magas vérnyomás"
+      ],
+      "osszefugges": "Közepes fokú krónikus vesebetegség – progresszió megakadályozása kulcs",
+      "javaslat": "Nefrológiai konzultáció, fehérjebevitel mérlegelése, vérnyomáskontroll",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Kombinált": [
+    {
+      "labor": "TSH > 3.0 + ferritin < 30 + D-vitamin < 50",
+      "tunetek": [
+        "reggeli fáradtság",
+        "hajhullás",
+        "hideg érzékenység",
+        "súlygyarapodás",
+        "depresszió"
+      ],
+      "osszefugges": "Klasszikus három hiány kombinációja – nagyon közös kép nőknél 25-45 közt, sokszor 'minden normál' laborral",
+      "javaslat": "Mind a három egyidejű kezelése szükséges – önállóan egyik sem ad tüneti javulást.",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "HOMA-IR > 2.5 + TG > 1.7 mmol/L + HDL < 1.0 mmol/L",
+      "tunetek": [
+        "inzulinrezisztencia",
+        "magas vérnyomás",
+        "magas triglicerid",
+        "alacsony HDL",
+        "hasfal elhízás"
+      ],
+      "osszefugges": "Metabolikus szindróma – 5 kritérium közül 3+ jelen, kardiovaszkuláris kockázat 3x",
+      "javaslat": "Komplex életmód intervenció szükséges. Nincs gyors megoldás.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ferritin < 30 + cink < 70 + biotin normál",
+      "tunetek": [
+        "diffúz hajhullás",
+        "töredező körmök",
+        "száraz bőr",
+        "fáradtság"
+      ],
+      "osszefugges": "Haj és köröm problémák legtöbbször vas+cink hiány kombinációja, nem biotin",
+      "javaslat": "Biotin divatos de ritka az igazi hiánya. Vas és cink a valódi megoldás.",
+      "prioritas": "közepes",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "minden labor normál határon + tünetek > 3 hónap",
+      "tunetek": [
+        "krónikus fáradtság",
+        "izomfájdalom",
+        "alvászavar",
+        "agyköd",
+        "diffúz fájdalom"
+      ],
+      "osszefugges": "Fibromialgia / krónikus fáradtság szindróma – klasszikusan 'normál' laborok, de tünetek valósak",
+      "javaslat": "Kombinált megközelítés: D-vitamin, magnézium, alvás, fokozatos mozgás.",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ferritin < 40 ng/mL + anti-TPO pozitív",
+      "tunetek": [
+        "krónikus fáradtság",
+        "hajhullás",
+        "ízületi fájdalom"
+      ],
+      "osszefugges": "Alacsony ferritin + Hashimoto – szinergikus hatás fáradtság és hajhullás esetén",
+      "javaslat": "Ferritin > 70-re emelése + szelén 200 mcg/nap, mindkét problémát kezelni kell",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Vas-bisglycinate",
+        "dozis": "25mg elemi vas naponta",
+        "forma": "bisglycinate vagy liposomális (nem szulfát – az hasmenést okoz)",
+        "mikor": "Reggel éhgyomorra vagy étkezés előtt 30 perccel",
+        "mellette": "500mg C-vitamin kötelező (felszívódást 67%-kal növeli)",
+        "ne_mellette": "Kávé, tea, tejtermék, kalcium – legalább 2 óra különbség",
+        "meddig": "3 hónap, majd ferritin újramérés. Cél: > 70 ng/mL",
+        "havi_koltseg_huf": "2000-5000 Ft",
+        "marka_tipus": "Keress 'iron bisglycinate' vagy 'ferrochel' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász vagy nőgyógyász",
+      "mit_mondjon": "Ferritiném X ng/mL, tüneteim vannak (fáradtság, hajhullás). Kérem ferritin + szérum vas + TIBC + transzferrin szaturáció együttes mérését, és ha lehetséges, vérzésforrás kizárását."
+    },
+    {
+      "labor": "hs-CRP emelkedett + alacsony B12",
+      "tunetek": [
+        "fáradtság",
+        "agyköd",
+        "puffadás",
+        "hangulatváltozások"
+      ],
+      "osszefugges": "Alacsony fokú gyulladás + B12-hiány – szinergikusan okoz agyköd és fáradtság",
+      "javaslat": "B12 pótlás + gyulladáscsökkentő program egyidejűleg",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "ferritin < 30 ng/mL + 25-OH-D < 50 nmol/L",
+      "tunetek": [
+        "hajhullás",
+        "fáradtság",
+        "izomgörcsök"
+      ],
+      "osszefugges": "Kombinált vas- és D-vitamin hiány – szinergikusan okozza a hajhullást",
+      "javaslat": "Ferritin > 70 + D3 3000 NE/nap, 3 hónapos program",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "D3-vitamin + K2",
+        "dozis": "4000 IU D3 naponta (ha < 50 nmol/L), 2000 IU fenntartásra",
+        "forma": "D3 (kolekalciferol) – nem D2",
+        "mikor": "Étkezéssel (zsírban oldódó)",
+        "mellette": "K2 (MK-7) 100-200mcg kötelező (kalcium helyes irányításához)",
+        "magnezium": "300mg magnézium szükséges a D-vitamin aktiváláshoz",
+        "meddig": "3 hónap, majd szint ellenőrzés. Cél: 100-150 nmol/L",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "D3+K2 kombinált készítmény a legpraktikusabb"
+      },
+      "orvos": "Belgyógyász vagy endokrinológus",
+      "mit_mondjon": "D-vitamin szintem X nmol/L. Kérem magasabb dózisú pótlás felírását és 3 hónap után ellenőrzést."
+    },
+    {
+      "labor": "HOMA-IR > 2.5 + hs-CRP emelkedett",
+      "tunetek": [
+        "fáradtság",
+        "agyköd",
+        "súlygyarapodás"
+      ],
+      "osszefugges": "Inzulinrezisztencia + alacsony fokú gyulladás – metabolikus ördögi kör",
+      "javaslat": "Komplex életmódváltás: szénhidrát csökkentés + omega-3 + erőnléti edzés",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "TSH magas + inzulin magas",
+      "tunetek": [
+        "fáradtság",
+        "hajhullás",
+        "anyagcsere lassulás"
+      ],
+      "osszefugges": "Hypothyreosis inzulinrezisztenciát okoz – ördögi kör",
+      "javaslat": "Mindkét állapot kezelése szükséges; pajzsmirigy kezelése javítja az inzulinérzékenységet is",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Szelén (T4→T3 konverzióhoz)",
+        "dozis": "200mcg/nap",
+        "forma": "szelen-metionin vagy szelenát",
+        "mikor": "Reggel étkezéssel",
+        "ne_mellette": "Ne vegyen be > 400mcg/nap – szelén toxicitás",
+        "meddig": "Folyamatosan, 3 havonta TSH + fT3 ellenőrzés",
+        "havi_koltseg_huf": "1500-3000 Ft",
+        "megjegyzes": "Hashimoto esetén TPO antitesteket csökkenti tanulmányok szerint"
+      },
+      "orvos": "Endokrinológus",
+      "mit_mondjon": "TSH értékem X mIU/L, tüneteim vannak (fáradtság, hideg érzékenység, hajhullás). Kérem fT3, fT4 és TPO antitest mérését is, mert eddig csak TSH-t mértek."
+    },
+    {
+      "labor": "magnézium < 0.85 mmol/L + kortizol este magas + B6 alacsony",
+      "tunetek": [
+        "fáradtság",
+        "szorongás",
+        "izomgörcsök",
+        "alvászavar"
+      ],
+      "osszefugges": "Kortizol magnéziumot és B6-ot von el – ezek hiánya fokozza a stresszválaszt",
+      "javaslat": "Magnézium-biszglicinát + B6 este + stresszcsökkentő program",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ferritin < 40 + cink < 70 + biotin < 100 nmol/L",
+      "tunetek": [
+        "hajhullás",
+        "körömtöredezés",
+        "fáradtság"
+      ],
+      "osszefugges": "Három haj- és körömspecifikus tápanyag egyidejű hiánya",
+      "javaslat": "Ferritin > 70, cink 15–20 mg, biotin 2.5–5 mg, 3 hónap",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "D-vitamin < 30 + omega-3 < 4% + magnézium < 0.85 + B12 < 300",
+      "tunetek": [
+        "fáradtság",
+        "depresszió",
+        "szorongás",
+        "koncentrációs nehézség"
+      ],
+      "osszefugges": "Négy kulcs neurológiai tápanyag egyidejű hiánya – szinergikus mentálhigiéniai hatás",
+      "javaslat": "Komplex pótlás mind a négyből, pszichiátriai konzultáció mérlegelése",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "ferritin < 25 + D-vitamin < 40 + magnézium < 0.82 + B12 < 250 + cink < 65",
+      "tunetek": [
+        "krónikus fáradtság",
+        "hajhullás",
+        "bőrszárazság",
+        "körömtöredezés",
+        "izomgörcsök"
+      ],
+      "osszefugges": "Öt alapvető mikronutriens egyidejű hiánya – szisztémás malabszorpció valószínű",
+      "javaslat": "Gasztroenterológiai kivizsgálás malabszorpcióra prioritásként, komplex pótlás orvosi felügyelet alatt",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "TSH 3.5–4.5 + koleszterin > 5.5 mmol/L",
+      "tunetek": [
+        "fáradtság",
+        "fogyhatatlanság",
+        "magas koleszterin"
+      ],
+      "osszefugges": "Szubklinális hypothyreosis emeli az LDL-koleszterint",
+      "javaslat": "Pajzsmirigy optimalizálás csökkenti a koleszterint is",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "B12": [
+    {
+      "labor": "B12 < 148 pmol/L",
+      "tunetek": [
+        "krónikus fáradtság",
+        "memóriazavar",
+        "bizsergés végtagokban",
+        "depresszió"
+      ],
+      "osszefugges": "Klasszikus B12-hiány – neurológiai és pszichiátriai tünetek",
+      "javaslat": "B12 metilkobalamin 1000 mcg/nap szublingválisan, 3 hónap minimum",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "alacsony B12 + emelkedett homocisztein",
+      "tunetek": [
+        "fáradtság",
+        "depresszió",
+        "memóriazavar"
+      ],
+      "osszefugges": "B12-hiány okozta hiperhomociszteinémia növeli pszichiátriai tünetek kockázatát",
+      "javaslat": "B12 + folát + B6 kombinált pótlás",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    },
+    {
+      "labor": "B12 < 150 pmol/L + MCV > 98 fL",
+      "tunetek": [
+        "sápadtság",
+        "légszomj",
+        "szívdobogás",
+        "koordinációs zavar"
+      ],
+      "osszefugges": "Megaloblasztos vérszegénység B12 hiány miatt",
+      "javaslat": "Azonnali B12 injekció, hematológiai konzultáció",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Metilkobalamin (B12)",
+        "dozis": "1000mcg naponta szublingválisan",
+        "forma": "METILKOBALAMIN – nem cianokobalamin (az rosszabb felszívódású)",
+        "mikor": "Reggel éhgyomorra, szublingválisan feloldva (nem lenyelni)",
+        "meddig": "3 hónap, majd B12 szint ellenőrzés",
+        "havi_koltseg_huf": "1000-2500 Ft",
+        "marka_tipus": "Keress 'methylcobalamin' szublingvális tablettát"
+      },
+      "orvos": "Belgyógyász vagy neurológus",
+      "mit_mondjon": "B12 szintem X pmol/L, zsibbadás/fáradtság tüneteim vannak. Kérem intrinsic factor antitest vizsgálatot is (perniciózus anaemia kizárása) és injekciós B12 mérlegelését."
+    }
+  ],
+  "Vér": [
+    {
+      "labor": "hemoglobin < 115 g/L + MCV < 78 fL",
+      "tunetek": [
+        "fáradtság",
+        "sápadtság",
+        "légszomj",
+        "lábfájás terhelésre"
+      ],
+      "osszefugges": "Súlyos mikrocitás vérszegénység – végtagok oxigénellátása romlik",
+      "javaslat": "Sürgős vaskezelés, vérzésforrás megkeresése elengedhetetlen",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "hemoglobin csökken + LDH emelkedett + haptoglobin < 0.1",
+      "tunetek": [
+        "fáradtság",
+        "sápadtság",
+        "sárgás árnyalat"
+      ],
+      "osszefugges": "Hemolitikus vérszegénység – vörösvérsejtek tömeges pusztulása",
+      "javaslat": "Sürgős hematológiai konzultáció",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    },
+    {
+      "labor": "fehérvérsejt < 3.5 + thrombocyta < 150 G/L",
+      "tunetek": [
+        "fáradtság",
+        "szívdobogás",
+        "sápadtság"
+      ],
+      "osszefugges": "Háromvonalú csökkent vérsejtképzés – csontvelő elégtelenség gyanúja",
+      "javaslat": "Sürgős hematológiai konzultáció szükséges",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Elektrolitok": [
+    {
+      "labor": "kálium < 3.5 mmol/L + magnézium < 0.85",
+      "tunetek": [
+        "fáradtság",
+        "izomgörcsök",
+        "szívdobogás"
+      ],
+      "osszefugges": "Hipokalaemia és magnéziumhiány egymást erősítik",
+      "javaslat": "Magnézium pótlása elsőként, majd kálium; orvosi felügyelet indokolt",
+      "prioritas": "magas",
+      "supplement": {
+        "nev": "Magnézium-glicinát",
+        "dozis": "300-400mg elemi magnézium este",
+        "forma": "GLICINÁT (legjobb tolerancia, jó felszívódás) – NEM oxid (hasmenést okoz)",
+        "mikor": "Este lefekvés előtt 1-2 órával (javítja az alvást is)",
+        "meddig": "Folyamatosan, 3 havonta szérum magnézium ellenőrzés",
+        "havi_koltseg_huf": "2000-4000 Ft",
+        "marka_tipus": "Keress 'magnesium glycinate' vagy 'magnesium bisglycinate' tartalmú készítményt"
+      },
+      "orvos": "Belgyógyász",
+      "mit_mondjon": "Magnézium szintem X mmol/L, lábgörcs/alvászavar/migrén tüneteim vannak. Kérem RBC magnézium mérést is (pontosabb mint szérum magnézium)."
+    },
+    {
+      "labor": "nátrium < 133 mmol/L",
+      "tunetek": [
+        "fáradtság",
+        "fejfájás",
+        "émelygés"
+      ],
+      "osszefugges": "Hyponatraemia neurológiai tüneteket okozhat",
+      "javaslat": "Sürgős orvosi ellátás, ok meghatározása szükséges",
+      "prioritas": "magas",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ],
+  "Cink": [
+    {
+      "labor": "cink < 70 μg/dL",
+      "tunetek": [
+        "hajhullás",
+        "köröm töredezés",
+        "sebek lassan gyógyulnak",
+        "ízületi fájdalom"
+      ],
+      "osszefugges": "Cinkszint hiány – immunrendszer, sejtmegújulás, tesztoszteron szintézis kofaktora",
+      "javaslat": "Cink-glukonát vagy cink-bisglycinate. Ne vedd vassal együtt – versenyeznek.",
+      "prioritas": "közepes",
+      "supplement": {},
+      "orvos": "",
+      "mit_mondjon": ""
+    }
+  ]
+}
